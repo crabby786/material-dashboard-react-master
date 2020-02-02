@@ -149,7 +149,7 @@ class FixedPlugin extends Component {
               <div className="button-container">
                 <Button
                   color="success"
-                  href="https://www.React admin.com/product/material-dashboard-react?ref=mdr-fixed-plugin"
+                  href="ss admin.com/product/material-dashboard-react?ref=mdr-fixed-plugin"
                   target="_blank"
                   fullWidth
                 >
@@ -161,7 +161,7 @@ class FixedPlugin extends Component {
               <div className="button-container">
                 <Button
                   color="warning"
-                  href="https://www.React admin.com/product/material-dashboard-pro-react?ref=mdr-fixed-plugin"
+                  href="ss admin.com/product/material-dashboard-pro-react?ref=mdr-fixed-plugin"
                   target="_blank"
                   fullWidth
                 >

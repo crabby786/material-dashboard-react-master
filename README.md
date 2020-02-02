@@ -38,15 +38,15 @@ You can find the Github Repo here.
 
 ## Versions
 
-[<img src="src/assets/github/html.png" width="60" height="60" />](https://www.React admin.com/product/material-dashboard)
-[<img src="src/assets/github/react.svg" width="60" height="60" />](https://www.React admin.com/product/material-dashboard-react)
-[<img src="src/assets/github/vuejs.png" width="60" height="60" />](https://www.React admin.com/product/vue-material-dashboard)
-[<img src="src/assets/github/angular.png" width="60" height="60" />](https://www.React admin.com/product/material-dashboard-angular2)
+[<img src="src/assets/github/html.png" width="60" height="60" />](ss admin.com/product/material-dashboard)
+[<img src="src/assets/github/react.svg" width="60" height="60" />](ss admin.com/product/material-dashboard-react)
+[<img src="src/assets/github/vuejs.png" width="60" height="60" />](ss admin.com/product/vue-material-dashboard)
+[<img src="src/assets/github/angular.png" width="60" height="60" />](ss admin.com/product/material-dashboard-angular2)
 
 
 | HTML | React | Vue | Angular |
 | --- | --- | --- | --- |
-| [![Material Dashboard HTML](src/assets/github/opt_md_thumbnail.jpg)](https://www.React admin.com/product/material-dashboard) | [![Material Dashboard React](src/assets/github/opt_mdr_thumbnail.jpg)](https://www.React admin.com/product/material-dashboard-react) | [![Vue Material Dashboard ](src/assets/github/opt_md_vue_thumbnail.jpg)](https://www.React admin.com/product/vue-material-dashboard) | [![Material Dashboard Angular](src/assets/github/opt_md_angular_thumbnail.jpg)](https://www.React admin.com/product/material-dashboard-angular2)
+| [![Material Dashboard HTML](src/assets/github/opt_md_thumbnail.jpg)](ss admin.com/product/material-dashboard) | [![Material Dashboard React](src/assets/github/opt_mdr_thumbnail.jpg)](ss admin.com/product/material-dashboard-react) | [![Vue Material Dashboard ](src/assets/github/opt_md_vue_thumbnail.jpg)](ss admin.com/product/vue-material-dashboard) | [![Material Dashboard Angular](src/assets/github/opt_md_angular_thumbnail.jpg)](ss admin.com/product/material-dashboard-angular2)
 
 ## Demo
 
@@ -64,7 +64,7 @@ Quick start options:
 - `npm i material-dashboard-react`
 - Clone the repo: `git clone https://github.com/createAdmin/material-dashboard-react.git`.
 - [Download from Github](https://github.com/createAdmin/material-dashboard-react/archive/master.zip).
-- [Download from React admin](https://www.React admin.com/product/material-dashboard-react).
+- [Download from React admin](ss admin.com/product/material-dashboard-react).
 
 
 ## Documentation
@@ -184,38 +184,38 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 - Demo: https://demos.React admin.com/material-dashboard-react
-- Download Page: https://www.React admin.com/product/material-dashboard-react
+- Download Page: ss admin.com/product/material-dashboard-react
 - Documentation: https://demos.React admin.com/material-dashboard-react/#/documentation/tutorial
-- License Agreement: https://www.React admin.com/license
-- Support: https://www.React admin.com/contact-us
+- License Agreement: ss admin.com/license
+- Support: ss admin.com/contact-us
 - Issues: [Github Issues Page](https://github.com/createAdmin/material-dashboard-react/issues)
-- [Material Kit React - For Front End Development](https://www.React admin.com/product/material-kit-react?ref=github-mdr-free)
+- [Material Kit React - For Front End Development](ss admin.com/product/material-kit-react?ref=github-mdr-free)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Material Dashboard React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.React admin.com/).
+1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](ss admin.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.React admin.com/contact-us) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](ss admin.com/contact-us) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2018 React admin (https://www.React admin.com)
+- Copyright 2018 React admin (ss admin.com)
 - Licensed under MIT (https://github.com/createAdmin/material-dashboard-react/blob/master/LICENSE.md)
 
 ## Useful Links
 
-More products from React admin: <https://www.React admin.com/products>
+More products from React admin: <ss admin.com/products>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
-Freebies: <https://www.React admin.com/products>
+Freebies: <ss admin.com/products>
 
-Affiliate Program (earn money): <https://www.React admin.com/affiliates/new>
+Affiliate Program (earn money): <ss admin.com/affiliates/new>
 
 Social Media:
 

@@ -40,7 +40,6 @@ import {
 } from "variables/charts.jsx";
 
 import dashboardStyle from "assets/jss/material-dashboard-react/views/dashboardStyle.jsx";
-import ProductGrid from "@bit/mui-org.material-ui.tab";
 
 class Dashboard extends React.Component {
   state = {
@@ -61,12 +60,6 @@ class Dashboard extends React.Component {
         
         <GridContainer>
           <GridItem xs={12} sm={6} md={3}>
-          <ProductGrid>
-            <h1>higjhgghgh</h1>
-          </ProductGrid >
-          <ProductGrid>
-            <h1>higjhgghgh</h1>
-          </ProductGrid >
             <Card>
               <CardHeader color="warning" stats icon>
                 <CardIcon color="warning">

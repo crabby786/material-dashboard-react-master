@@ -29,7 +29,6 @@ import Card from "components/Card/Card.jsx";
 import CardHeader from "components/Card/CardHeader.jsx";
 import CardIcon from "components/Card/CardIcon.jsx";
 import CardBody from "components/Card/CardBody.jsx";
-import CardFooter from "components/Card/CardFooter.jsx";
 
 import { bugs, website, server } from "variables/general.jsx";
 
@@ -40,6 +39,7 @@ import {
 } from "variables/charts.jsx";
 
 import dashboardStyle from "assets/jss/material-dashboard-react/views/dashboardStyle.jsx";
+import CardFooter from "components/Card/CardFooter";
 
 class Dashboard extends React.Component {
   state = {
@@ -47,7 +47,6 @@ class Dashboard extends React.Component {
   };
   handleChange = (event, value) => {
     this.setState({ value });
-    
   };
 
   handleChangeIndex = index => {
@@ -57,7 +56,6 @@ class Dashboard extends React.Component {
     const { classes } = this.props;
     return (
       <div>
-        
         <GridContainer>
           <GridItem xs={12} sm={6} md={3}>
             <Card>

@@ -140,9 +140,9 @@ const Sidebar = ({ ...props }) => {
         target="_blank"
       >
         <div className={classes.logoImage}>
-          {/* <img src={logo} alt="logo" className={classes.img} /> */}
+          <img src="/assets/images/other/img/pledge_logo.png" alt="logo" className={classes.img} />
           {/* <img src={process.env.PUBLIC_URL + '/img/logo.png'} /> */}
-          <img src='/img/logo.jpg' style = {{width:'100%'}} />
+          {/* <Icon>account_circle</Icon> */}
         </div>
         {logoText}
       </a>

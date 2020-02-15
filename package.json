@@ -33,11 +33,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/crabby786/reactadmin1.git"
-  },
-  "homepage": "https://crabby786.github.io/reactadmin1",
   "keywords": [],
   "author": "vilas",
   "optionalDependencies": {

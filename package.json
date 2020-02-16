@@ -33,6 +33,14 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+<<<<<<< HEAD
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crabby786/material-dashboard-react-master.git"
+  },
+  "homepage": "https://crabby786.github.io/material-dashboard-react-master/",
+>>>>>>> small
   "keywords": [],
   "author": "vilas",
   "optionalDependencies": {

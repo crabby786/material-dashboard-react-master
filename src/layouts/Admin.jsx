@@ -120,6 +120,7 @@ class Dashboard extends React.Component {
             routes={routes}
             handleDrawerToggle={this.handleDrawerToggle}
             {...rest}
+            color='primary'
           />
           {/* On the /maps route we want the map to be on full screen - this is not possible if the content and conatiner classes are present because they have some paddings which would make the map smaller */}
           {this.getRoute() ? (
@@ -139,6 +140,7 @@ class Dashboard extends React.Component {
             fixedClasses={this.state.fixedClasses}
           /> */}
         </div>
+        
       </div>
     );
   }
